@@ -362,7 +362,10 @@ This combination of technology, business, architecture, teaching, and philosophi
 
 ## Writing and Knowledge Sources
 
-I publish technology perspectives and professional reflections on [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/), complementing the architecture, AI-first engineering, governance, and TechEd material presented in this profile.
+My Blogger publications provide two complementary perspectives:
+
+- [Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) - technology perspectives and professional reflections complementing the architecture, AI-first engineering, governance, and TechEd material in this profile.
+- [A Spiritual Quest](https://shankar-whatisgod.blogspot.com/) - reflections on philosophy, spirituality, identity, and the broader human context in which technology is created and applied.
 
 ---
 
