@@ -5,7 +5,7 @@
 **Freelance and part-time advisory services for startups, mid-market enterprises, multinational corporations, academic institutions, and technology teams**
 
 Chennai, India (IST) | Remote worldwide | On-site across India  
-[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
+[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy) | [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
 
 | Experience | Engagement | Base and reach | Academic practice |
 | --- | --- | --- | --- |
@@ -360,6 +360,12 @@ This combination of technology, business, architecture, teaching, and philosophi
 
 ---
 
+## Writing and Knowledge Sources
+
+I publish technology perspectives and professional reflections on [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/), complementing the architecture, AI-first engineering, governance, and TechEd material presented in this profile.
+
+---
+
 ## Start a Conversation
 
 **The first call is a scoping call: no charge and no deck.**
@@ -368,4 +374,4 @@ I welcome conversations with founders, CTO offices, CXOs, product leaders, enter
 
 **Available for:** freelance consulting, fractional leadership, part-time advisory, architecture reviews, presales engagements, Forward Deployment Engineering, workshops, adjunct teaching, curriculum design, mentoring, and R&D-lab advisory.
 
-[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
+[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy) | [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
