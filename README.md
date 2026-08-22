@@ -1,15 +1,15 @@
 # Shankar Santhamoorthy
 
-## AI-First Software Architecture & Engineering | Chief Technology Advisory | Agentic AI Harness Engineering | TechEd Consulting
+## AI-First Chief Technology Advisory | Indian Knowledge Systems Research | Traditional Knowledge Scholarship | Agentic AI | TechEd
 
-**Freelance and part-time advisory services for startups, mid-market enterprises, multinational corporations, academic institutions, and technology teams**
+**Technology advisory, AI-first engineering, Indian Knowledge Systems research, traditional-knowledge scholarship, teaching, training, and mentoring**
 
 Chennai, India (IST) | Remote worldwide | On-site across India  
-[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy) | [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
+[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy-08b20356/) | [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) | [Blogger - IKS and Philosophy](https://shankar-whatisgod.blogspot.com/) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
 
 | Experience | Engagement | Base and reach | Academic practice |
 | --- | --- | --- | --- |
-| More than two decades in solution and enterprise architecture | Freelance, fractional, and part-time; retainer, fixed-scope sprint, or embedded engagement | Chennai, India (IST); remote worldwide and on-site across India | Adjunct Professor of Practice, SSN Institutions |
+| More than two decades in solution and enterprise architecture; 25+ years of independent IKS inquiry | Freelance, fractional, part-time, research, teaching, and scholarly collaboration | Chennai, India (IST); remote worldwide and on-site across India | Adjunct Professor of Practice, SSN Institutions; M.A. Saiva Siddhanta |
 
 ---
 
@@ -19,7 +19,9 @@ I work with founders, CTO offices, CXOs, and delivery organizations on the archi
 
 My career spans enterprise and solution architecture, digital transformation, cloud-native engineering, data platforms, DevSecOps, architecture governance, technical presales, technology alliances, and engineering leadership. I have worked with startups and large enterprises across AgriTech, education and publishing, banking and financial services, healthcare and life sciences, consumer goods, manufacturing, plant automation, and other technology-intensive domains.
 
-Two service lines run in parallel: technology advisory and AI consulting delivered as a service, and academic/corporate education in the engineering disciplines on which those programmes depend. Alongside consulting, I serve as an **Adjunct Professor of Practice**, teaching and mentoring undergraduate and postgraduate computer-science students, advising technology laboratories and R&D initiatives, and helping academic and corporate learners connect sound theory with industry-grade engineering practice.
+In parallel, I work as an **Indian Knowledge Systems (IKS) researcher and traditional knowledge scholar**. My inquiry spans Saiva Siddhanta, Samkhya, Advaita Vedanta, comparative philosophy, Sanskrit and classical Tamil textual interpretation, sacred hermeneutics, iconography, and AI-enabled digital humanities. This is grounded in more than 25 years of independent study and an M.A. in Saiva Siddhanta. I distinguish canonical interpretation, comparative hypotheses, scientific analogy, and technical implementation so that interdisciplinary work remains traceable and open to review.
+
+Three professional lines run in parallel: technology advisory and AI consulting; academic and corporate technology education; and IKS research, scholarship, curriculum, and digital-humanities collaboration. Alongside consulting, I serve as an **Adjunct Professor of Practice**, teaching and mentoring undergraduate and postgraduate students, advising technology laboratories and R&D initiatives, and helping learners connect rigorous theory with responsible practice.
 
 ### Value Proposition
 
@@ -29,6 +31,8 @@ Two service lines run in parallel: technology advisory and AI consulting deliver
 - Accelerate startup and enterprise presales with credible architecture, estimation, solution narratives, demonstrations, and delivery transition.
 - Embed with delivery teams as a Forward Deployment Engineer to move from ambiguous requirements to working outcomes.
 - Build internal capability through structured courseware, workshops, mentoring, architecture reviews, and hands-on laboratories.
+- Conduct primary-text-led IKS research across Sanskrit and Tamil traditions with explicit sources, transliteration, conceptual mapping, and comparative analysis.
+- Apply knowledge graphs, retrieval, multilingual AI, and digital-humanities methods to make traditional-knowledge corpora more discoverable, reviewable, and teachable.
 
 ---
 
@@ -230,7 +234,86 @@ Teaching is a standing part of my practice, not an aside. I lecture B.Tech. and 
 
 ---
 
-## 3. Industry Verticals and Micro-Verticals
+## 3. Indian Knowledge Systems Research and Traditional Knowledge Scholarship
+
+My IKS work brings together primary-text study, traditional commentarial methods, comparative philosophy, teaching, and responsible digital-humanities engineering. It is a parallel scholarly practice—not a replacement for my technology career—and it benefits from the same disciplines of traceability, architecture, knowledge representation, evaluation, and governance.
+
+### 3.1 Research Identity and Method
+
+- **25+ years of continuous independent inquiry** into Indian philosophy, sacred literature, metaphysics, cosmology, and traditional knowledge.
+- **M.A. in Saiva Siddhanta**, supported by study of the Meykandar Shastras, Tirumurais, Saiva Agamas, and related Tamil traditions.
+- Sanskrit philosophical terminology, etymological analysis, textual comparison, and commentary-led interpretation.
+- Classical Tamil study spanning Sangam literature, the Saiva Tirumurais, *Tirumantiram*, devotional poetry, and modern spiritual commentary.
+- Comparative analysis across Astika and Nastika traditions, Western philosophy, modern science, and cognitive systems.
+- Clear separation of canonical claims, commentarial positions, original synthesis, scientific analogy, and research hypotheses.
+
+### 3.2 Core IKS Specializations
+
+| Specialization | Research focus |
+| --- | --- |
+| **Samkhya Darshana** | *Samkhyakarika*, *Samkhyatattvakaumudi*, *Samkhyapravacanasutra*, *Tattvasamasa*, *Yuktidipika*, tattva systems, Purusha-Prakriti, Triguna, Satkaryavada, Parinamavada, and the three pramanas |
+| **Advaita Vedanta and comparative philosophy** | Kevaladvaita, Vivartavada, Maya/Avidya, the Shaddarshanas, Buddhist and Jain perspectives, Kantian epistemology, and phenomenology |
+| **Saiva Siddhanta and classical Tamil traditions** | *Sivajnanabodham*, the fourteen Meykanda Shastras, *Tirumantiram*, *Tevaram*, *Tiruvacagam*, *Kandapuranam*, and Tamil devotional literature |
+| **Vallalar and Suddha Sanmarga** | Jivakarunyam, spiritual compassion, mystical transformation, sacred poetry, and the philosophical vision of Ramalinga Vallalar |
+| **Sacred hermeneutics and iconography** | Murugan metaphysics, Arupadaiveedu, Kundalini symbolism, the Vel, Nataraja, Ananda Tandava, Chidambaram, Ardra Darshanam, and sacred architecture |
+| **Comparative science and metaphysics** | Carefully bounded comparison of traditional cosmology with thermodynamics, quantum theory, cognition, systems thinking, and philosophy of science |
+| **Digital humanities for IKS** | Multilingual corpora, concordances, knowledge graphs, retrieval, provenance, semantic search, contradiction analysis, research notebooks, and AI-assisted textual inquiry |
+
+### 3.3 Long-Form Research Corpus
+
+My principal long-form research programme is *Kim Tat Brahma* ("What is that Ultimate Reality?"), an eight-volume research corpus described in the source dossier as exceeding 3,000 pages and developed over approximately three decades. It investigates classical Indian accounts of reality, knowledge, consciousness, causality, manifestation, and liberation across multiple philosophical schools.
+
+The corpus develops an original integrative formulation—*Anekavima Suddhakevaladvaita Ekatva*—as a research thesis for comparing plural philosophical standpoints. This work is presented as an ongoing scholarly synthesis rather than as established scientific consensus.
+
+### 3.4 AI-Enabled IKS and Digital Humanities
+
+I have conceptualized an intelligent, multimodal research workbench for Indian Knowledge Systems that brings together curated texts, manuscript and academic repositories, multilingual models, concordance, provenance, and comparative analysis.
+
+**Research-platform scope**
+
+- Source ingestion with edition, language, translator, commentator, and provenance metadata.
+- Sanskrit, Tamil, transliteration, translation, and terminology alignment.
+- Passage-level citation, parallel-text comparison, semantic retrieval, and knowledge-graph navigation.
+- School, text, commentator, concept, argument, and contradiction mapping.
+- Human-reviewed AI assistance for summarization, cross-reference, question answering, and research-note generation.
+- Evaluation for citation accuracy, faithfulness, translation quality, doctrinal attribution, and uncertainty.
+- Research notebooks and interactive knowledge spaces for Samkhya, Vedanta, Saiva Siddhanta, Tamil metaphysics, and comparative inquiry.
+
+### 3.5 Publications, Research Portals, and Lectures
+
+**Published monograph**
+
+- [*Muruga! Let Your Glory Be Extolled*](https://whatisgod-tirumurgan.blogspot.com/2025/10/muruka-perumaiperu-ninatupukal.html) — a Tamil monograph on Murugan worship, literature, metaphysics, theology, and yogic interpretation; published through Notion Press and listed through Indian booksellers in 2024.
+
+**Specialized research portals**
+
+- [Samkhya Darshana](https://whatisgod-samkhya.blogspot.com/) — course modules, literature reviews, and shastric commentary.
+- [Tiru Murugan](https://whatisgod-tirumurgan.blogspot.com/) — Skanda-Murugan theology, metaphysics, literature, and sacred symbolism.
+- [Ramalinga Vallalar](https://whatisgod-iraamalingavallalaar.blogspot.com/) — Suddha Sanmarga, poetry, compassion, and mystical transformation.
+- [Philosophical Traditions of Hinduism](https://shankar-whatisgod.blogspot.com/) — cross-darshana and comparative philosophical inquiry.
+- [Navaratra and Dasahara Upasana](https://whatisgod-navaratradashahara.blogspot.com/) — Devi worship and festival hermeneutics.
+- [Citsabhesamangalam](https://chitsabhesayamangalam.blogspot.com/) — Chidambaram, Nataraja iconography, sacred architecture, and celestial alignment.
+- [Vidvesha Bhakti](https://whatisgod-vidveshabhakti.blogspot.com/) — adversarial devotion and its psycho-spiritual interpretation.
+- [Sanatana Dharma Studies](https://whatisgod-sanathanadharma.blogspot.com/) — cosmology, Puranic time, and Vedic epistemology.
+
+**Selected video lectures**
+
+- [What is God / Bharatiya Sanatanadharma](https://www.youtube.com/watch?v=0PjT9LmtBOY) — scripture, religion, and inquiry into ultimate reality.
+- [Introduction to Samkhya Philosophy](https://www.youtube.com/watch?v=-Ealpudu3Pg) — lineage, chronology, and textual corpus.
+- [Trigunatmakam in Samkhya](https://www.youtube.com/watch?v=VdOmg8NwiH0) — epistemological, ontological, and scriptural analysis of the three gunas.
+
+### 3.6 IKS Research, Education, and Collaboration Offerings
+
+- Primary-text research, literature review, annotated bibliography, and comparative concept mapping.
+- IKS curriculum, courseware, faculty enablement, lectures, workshops, and learner mentoring.
+- Digital archive, taxonomy, ontology, knowledge graph, semantic retrieval, and research-platform architecture.
+- Multilingual AI and Agentic AI harness design for source-grounded IKS research.
+- Research-method review covering attribution, transliteration, translation, provenance, uncertainty, and responsible comparison.
+- Scholarly collaboration with universities, Indic-study centres, digital-humanities teams, publishers, cultural institutions, and responsible-technology programmes.
+
+---
+
+## 4. Industry Verticals and Micro-Verticals
 
 My approach combines reusable architecture patterns with the workflows, risks, data, regulation, and economics of each industry.
 
@@ -244,6 +327,7 @@ My approach combines reusable architecture patterns with the workflows, risks, d
 | **Retail and fast-moving consumer goods** | Omnichannel commerce, merchandising and pricing, catalogue, warehouse and last mile, loyalty and CRM | Customer intelligence, recommendations, conversational commerce, catalogue enrichment, demand/inventory optimisation, intelligent service, and composable commerce |
 | **Manufacturing and plant automation** | Industry 4.0 and IIoT, MES-to-ERP integration, predictive maintenance, digital twins, plant analytics and quality | IoT/edge integration, predictive insights, digital operations, quality intelligence, maintenance assistance, cloud/data modernisation, and AR/VR enablement |
 | **Technology, SaaS, and IT services** | Startups, product engineering, platforms, managed services, internal developer platforms | Product and platform architecture, presales, multi-tenancy, API ecosystems, developer experience, Agentic AI harnesses, cloud economics, governance, and scale readiness |
+| **IKS, cultural heritage, and digital humanities** | Universities, Indic-study centres, archives, publishers, museums, temples, research groups, and cultural institutions | Multilingual corpora, scholarly knowledge graphs, semantic retrieval, digital archives, source-grounded AI, provenance, curriculum, and research workbenches |
 
 ### Service Coverage by Industry
 
@@ -261,7 +345,7 @@ My approach combines reusable architecture patterns with the workflows, risks, d
 
 ---
 
-## 4. Engagement Models and Availability
+## 5. Engagement Models and Availability
 
 **Part-time by design. Scope, decision rights, commitment, deliverables, and acceptance criteria are agreed before work starts.**
 
@@ -275,12 +359,13 @@ My approach combines reusable architecture patterns with the workflows, risks, d
 | **Independent architecture review** | Fixed-scope review | Programmes seeking an objective fitness assessment, risk/gap analysis, and prioritised remediation roadmap |
 | **Workshop or bootcamp** | Per workshop or cohort | Teams needing accelerated capability development through laboratories, case studies, assessment, and an action plan |
 | **Academic and training engagement** | Per cohort or semester | Universities and corporate academies commissioning one or more of the nine teaching tracks |
+| **IKS research and digital-humanities collaboration** | Fixed-scope study, research sprint, course, or institutional programme | Primary-text research, curriculum, annotated corpora, knowledge architecture, multilingual retrieval, and source-grounded AI for traditional knowledge |
 
 **Availability:** Part-time throughout, to roughly 20 hours per week across concurrent engagements. I typically accommodate up to two advisory retainers and one teaching engagement at a time; new work is scheduled around confirmed commitments.
 
 ---
 
-## 5. Delivery Approach
+## 6. Delivery and Research Approach
 
 1. **Discover** - clarify business outcomes, users, workflows, constraints, risks, data, and current-state architecture.
 2. **Frame** - define the problem, success measures, principles, requirements, assumptions, and decision criteria.
@@ -288,10 +373,12 @@ My approach combines reusable architecture patterns with the workflows, risks, d
 4. **De-risk** - test the highest-risk assumptions through proof, evaluation, threat modelling, cost analysis, and operational readiness.
 5. **Deliver and govern** - support implementation, architecture decisions, quality gates, telemetry, and stakeholder alignment.
 6. **Enable and transfer** - document reusable patterns, mentor teams, establish the operating model, and transfer ownership.
+7. **Source and attribute** - for IKS work, record editions, passages, translators, commentators, terminology, provenance, and interpretive status.
+8. **Compare responsibly** - separate textual interpretation and philosophical analogy from empirical scientific claims, and state uncertainty explicitly.
 
 ---
 
-## 6. Technology Depth
+## 7. Technology and Research Depth
 
 **Hands-on engineering and architecture coverage, not survey-level familiarity.**
 
@@ -305,12 +392,16 @@ My approach combines reusable architecture patterns with the workflows, risks, d
 
 **Security, governance, and architecture practices:** SSDLC, DevSecOps, CI/CS/CD, information security, cyber-security and vulnerability governance, ITIL operations, API security, observability, resilience, TOGAF-aligned enterprise architecture, capability and portfolio mapping, cloud assessment, reference architectures, DDD, microservices, event-driven architecture, product roadmaps, Architecture Decision Records, Architecture Review Boards and gate models, and vendor/Big Four partner management.
 
+**IKS and digital-humanities methods:** Sanskrit and Tamil terminology alignment, transliteration, commentary comparison, canonical cross-referencing, hermeneutics, comparative philosophy, provenance-rich corpora, taxonomy and ontology design, knowledge graphs, semantic retrieval, multilingual AI, citation-grounded generation, and human-reviewed research workflows.
+
 ---
 
-## 7. Selected Career Evidence
+## 8. Selected Career and Research Evidence
 
 - **Freelance Enterprise and Solution Architecture Advisory (2024-present):** technology advisory, implementation support, product-engineering and business-development consulting for startup and growth-stage organizations.
 - **Adjunct Professor of Practice, SSN Institutions (2025-present):** professional teaching for B.Tech. and M.Tech. computer-science learners, industrial-project mentoring, and technology-lab/R&D advisory.
+- **Independent IKS research and traditional-knowledge scholarship (25+ years):** sustained study of Samkhya, Advaita Vedanta, Saiva Siddhanta, classical Tamil sacred literature, comparative metaphysics, iconography, and digital-humanities applications.
+- **IKS writing and public scholarship:** an eight-volume long-form research corpus in development; a published Tamil monograph on Murugan; specialized Blogger research portals; and recorded lectures on Sanatana Dharma, Samkhya, and Triguna theory.
 - **Chief Technology Advisory assignments:** part-time advisory support for product engineering and business development, including Yakkay Technologies and ServeMind Technologies.
 - **WayCool / Censanext (2021-2023):** Enterprise Architecture Advisor and General Manager - Chief Architect; supported multi-cloud evaluation, C-suite and engineering alignment, application and data transformation, polyglot data architecture, event-driven microservices, MLOps pipelines, Kubernetes, and multi-tenancy strategy.
 - **Cognizant (2013-2019):** Principal Architect; delivered enterprise-architecture consulting for education publishing and banking, created regional architecture blueprints, advised application portfolios, provided reference patterns and design assurance, and contributed as a technology evangelist and trainer.
@@ -321,18 +412,19 @@ My approach combines reusable architecture patterns with the workflows, risks, d
 
 ---
 
-## 8. Education and Professional Credentials
+## 9. Education, Languages, and Professional Credentials
 
 - **TOGAF Certification**
 - **Post Graduate Diploma in Software Engineering (GNIIT)**
-- **Master of Arts in Saiva Siddhanta**
+- **Master of Arts in Saiva Siddhanta** — formal study of Saiva philosophical and canonical traditions
 - **Bachelor of Commerce**
+- **Research languages and textual practice:** Sanskrit philosophical terminology and textual comparison; classical and modern Tamil sacred and philosophical literature; English academic and technical communication
 
 This combination of technology, business, architecture, teaching, and philosophical study informs a systems-oriented consulting style: rigorous about engineering detail, attentive to organizational context, and focused on responsible long-term outcomes.
 
 ---
 
-## 9. Typical Client Questions I Help Answer
+## 10. Questions I Help Clients and Research Partners Answer
 
 - Where should AI create measurable value in our enterprise, and what should we avoid?
 - What target architecture will let us scale AI safely across business units?
@@ -344,10 +436,13 @@ This combination of technology, business, architecture, teaching, and philosophi
 - How can a startup make its technical proposition credible to enterprise buyers and investors?
 - How can we establish an FDE capability that connects product engineering with customer outcomes?
 - How do we upskill engineers, architects, faculty, or students for AI-first software delivery?
+- How can an IKS corpus be digitized, attributed, searched, compared, and taught without losing textual provenance or doctrinal context?
+- How should multilingual AI support Sanskrit and Tamil research while keeping citations, translations, interpretations, and uncertainty visible?
+- How can traditional knowledge and modern scientific or technological frameworks be compared rigorously without collapsing one into the other?
 
 ---
 
-## 10. Engagement Principles
+## 11. Engagement and Research Principles
 
 - **Business outcome before technology novelty**
 - **Architecture as decisions and evidence, not diagrams alone**
@@ -357,15 +452,17 @@ This combination of technology, business, architecture, teaching, and philosophi
 - **Incremental delivery with measurable learning**
 - **Documentation, mentoring, and client capability transfer**
 - **Independent advice with transparent assumptions and risks**
+- **Primary-text fidelity, attribution, provenance, and interpretive transparency**
+- **Respectful pluralism across Indian philosophical and knowledge traditions**
+- **Clear boundaries between scripture, commentary, original synthesis, scientific analogy, and empirical evidence**
 
 ---
 
 ## Writing and Knowledge Sources
 
-My Blogger publications provide two complementary perspectives:
-
-- [Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) - technology perspectives and professional reflections complementing the architecture, AI-first engineering, governance, and TechEd material in this profile.
-- [A Spiritual Quest](https://shankar-whatisgod.blogspot.com/) - reflections on philosophy, spirituality, identity, and the broader human context in which technology is created and applied.
+- [Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) — technology perspectives and professional reflections.
+- [Philosophical Traditions of Hinduism and Comparative Inquiry](https://shankar-whatisgod.blogspot.com/) — the principal gateway to my IKS and philosophical writing.
+- The specialized IKS portals listed above provide deeper research trails for Samkhya, Murugan, Vallalar, Navaratra, Chidambaram, Vidvesha Bhakti, and Sanatana Dharma.
 
 ---
 
@@ -373,8 +470,8 @@ My Blogger publications provide two complementary perspectives:
 
 **The first call is a scoping call: no charge and no deck.**
 
-I welcome conversations with founders, CTO offices, CXOs, product leaders, enterprise architects, engineering leaders, delivery organizations, academic institutions, and innovation teams seeking senior, practical support for AI-first transformation and technology capability building.
+I welcome conversations with founders, CTO offices, CXOs, product leaders, enterprise architects, engineering leaders, delivery organizations, universities, Indic-study centres, digital-humanities groups, publishers, cultural institutions, and innovation teams seeking senior, practical support for AI-first transformation, IKS research, and capability building.
 
-**Available for:** freelance consulting, fractional leadership, part-time advisory, architecture reviews, presales engagements, Forward Deployment Engineering, workshops, adjunct teaching, curriculum design, mentoring, and R&D-lab advisory.
+**Available for:** freelance consulting, fractional leadership, part-time advisory, architecture reviews, presales engagements, Forward Deployment Engineering, IKS research collaboration, digital-humanities architecture, workshops, adjunct teaching, curriculum design, mentoring, and R&D-lab advisory.
 
-[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy) | [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
+[Email](mailto:shankyvidhu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shankar-santhamoorthy-08b20356/) | [Blogger - Technology Insights](https://shankar-santhamoorthy-tech-insights.blogspot.com/) | [Blogger - IKS and Philosophy](https://shankar-whatisgod.blogspot.com/) | [GitHub](https://github.com/sankyvidhu) | Phone: +91 98843 36440
