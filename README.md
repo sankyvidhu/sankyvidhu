@@ -238,6 +238,8 @@ Teaching is a standing part of my practice, not an aside. I lecture B.Tech. and 
 
 My IKS work brings together primary-text study, traditional commentarial methods, comparative philosophy, teaching, and responsible digital-humanities engineering. It is a parallel scholarly practice—not a replacement for my technology career—and it benefits from the same disciplines of traceability, architecture, knowledge representation, evaluation, and governance.
 
+**Featured project:** [Indian Knowledge Systems Research and Digital Humanities](https://github.com/sankyvidhu/indian-knowledge-systems-research)
+
 ### 3.1 Research Identity and Method
 
 - **25+ years of continuous independent inquiry** into Indian philosophy, sacred literature, metaphysics, cosmology, and traditional knowledge.
